@@ -15,7 +15,7 @@ public class PrintStudentList {
      */
     public static void main(String[] args) 
     {
-       Student[] list = new Student[2]; // array of objects
+       Student[] list = new Student[4]; // array of objects
        //create object fro 3 student , store and print value
        Student s1 = new Student();
        s1.setName("peter");
